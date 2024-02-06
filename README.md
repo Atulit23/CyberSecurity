@@ -1,0 +1,1 @@
+Here we will gather all tthe information of packets that we are both recieving & sending! Furthermore a model would be trained based on the UNSW datasets to detect if any anomaly is present!
